@@ -7,6 +7,10 @@ People are encouraged to build on this for an advanced OCR.
 
 As it was a time consuming job for me to digest the online sanskrit OCR's.
 
+# Dataset source
+
+https://github.com/avadesh02/Sanskrit-letter-dataset/blob/master/README.md#sanskrit-letter-dataset
+
 # To do
 
 Automatic image segmentation from page of lines to charcter array.
