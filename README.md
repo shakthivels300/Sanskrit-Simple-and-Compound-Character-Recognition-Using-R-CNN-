@@ -1,5 +1,6 @@
 # Sanskrit-Simple-and-Compound-Character-Recognition-Using-R-CNN
 
+Digital Image Processing-1 Mini-Project PES UNIVERSITY
 This is just a small attempt to make the invaluable ancient Indian knowledge resources, available in the form of manuscripts, immortal.
 People are encouraged to build on this for an advanced OCR.
 
